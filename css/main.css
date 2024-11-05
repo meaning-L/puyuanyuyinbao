@@ -1,0 +1,19 @@
+html,body{
+				margin:0;
+				padding:0;
+}
+			header{
+				height: 50px;
+				padding-top: 5px;
+			}
+			section {
+				height: 1000px;
+				justify-content: center;
+			}
+			section>* {
+				height: 100%;				
+			}
+			.img1{
+				justify-content:center;
+				margin-top: 10px;
+				}
